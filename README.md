@@ -13,4 +13,6 @@ While DevOps is not a specific job title or role, organizations often hire for a
 
 ## Give a Star! :star:
 
+![DevOps roadmap](DevOps%20Roadmap.png)
 
+Download [Version without background](devops roadmaps.png).
