@@ -15,4 +15,6 @@ While DevOps is not a specific job title or role, organizations often hire for a
 
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
-Download [Version without background](devops roadmaps.png).
+## Learning resources for DevOps Engineers ( PDF ) 
+
+### 1:  Kubernates [ Kubernates Link]([link add in read.md file with text](https://media.licdn.com/dms/document/media/D4D1FAQFqHwvYyLNv5Q/feedshare-document-pdf-analyzed/0/1702303436128?e=1703721600&v=beta&t=kjkVNdpF16p4iD1KaMQhkDLxu3duI2jOwGxp4_KsDow)https://media.licdn.com/dms/document/media/D4D1FAQFqHwvYyLNv5Q/feedshare-document-pdf-analyzed/0/1702303436128?e=1703721600&v=beta&t=kjkVNdpF16p4iD1KaMQhkDLxu3duI2jOwGxp4_KsDow )
