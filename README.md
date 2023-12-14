@@ -17,5 +17,6 @@ While DevOps is not a specific job title or role, organizations often hire for a
 
 ## Learning resources for DevOps Engineers ( PDF ) 
 
-### 1:  [**Kubernetes**](https://media.licdn.com/dms/document/media/D4D1FAQFqHwvYyLNv5Q/feedshare-document-pdf-analyzed/0/1702303436128?e=1703721600&v=beta&t=kjkVNdpF16p4iD1KaMQhkDLxu3duI2jOwGxp4_KsDow)
+### 1: [**Kubernetes**](https://media.licdn.com/dms/document/media/D4D1FAQFqHwvYyLNv5Q/feedshare-document-pdf-analyzed/0/1702303436128?e=1703721600&v=beta&t=kjkVNdpF16p4iD1KaMQhkDLxu3duI2jOwGxp4_KsDow){:target="_blank"}
+
 
