@@ -1,3 +1,5 @@
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
+
 # DevOps-Roadmap-2024
 Step by step guide for DevOps, SRE or any other Operations Role in 2024. 
 
